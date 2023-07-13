@@ -1,0 +1,12 @@
+.wrapper{
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+    font-family:'Times New Roman', Times, serif;
+    cursor: pointer;
+
+    &:hover{
+        background-color: rgba(22, 24, 35, 0.03);
+    }
+
+}
